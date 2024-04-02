@@ -1,6 +1,8 @@
 # staticwebsite
+Created custom domain name using Amazon Route 53
+![image](https://github.com/Sindhia-raj96/staticwebsite/assets/161922154/6aa4bf44-ed5e-41fd-a6ef-09779b391b33)
 
-Created an Amazon S3 bucket to host a Todo list website
+Used an Amazon S3 bucket to host a Static website
 ![image](https://github.com/Sindhia-raj96/staticwebsite/assets/161922154/1ad648bd-bf23-4189-bc05-f5fbbda65e36)
 
 Enabled static website hosting and disabled the blocked public access feature. So it can be accessed by anyone
